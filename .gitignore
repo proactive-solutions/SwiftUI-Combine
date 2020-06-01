@@ -1,0 +1,7 @@
+VideoGalleryApp.xcodeproj/project.xcworkspace/xcshareddata
+VideoGalleryApp.xcodeproj/project.xcworkspace/xcuserdata
+*.xcworkspacedata
+Pods/
+VideoGalleryApp.xcworkspace/xcshareddata/
+VideoGalleryApp.xcworkspace/xcuserdata/*
+VideoGalleryApp.xcodeproj/xcuserdata/railsgr4.xcuserdatad/xcschemes/xcschememanagement.plist
